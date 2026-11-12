@@ -1,0 +1,10 @@
+{
+  "description": "Explore climate knowledge and environmental challenges with engaging content and solutions, designed for educational purposes and awareness.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
